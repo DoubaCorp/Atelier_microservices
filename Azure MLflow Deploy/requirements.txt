@@ -1,0 +1,7 @@
+azureml-core==1.43
+pandas==1.3.5
+scikit-learn==0.24.2
+cloudpickle==2.0.0
+psutil==5.9.0
+mlflow==1.24.0
+joblib~=1.3.2
