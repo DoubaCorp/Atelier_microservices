@@ -13,7 +13,7 @@ MLflow
 
   ![](images/captureAzure2.PNG)
 
-  ![](images/captureAzure3.PNG
+  ![](images/captureAzure3.PNG)
 
   ![](images/captureAzure4.PNG)
 
