@@ -11,14 +11,14 @@ MLflow
 
   ![](images/captureAzure1.PNG)
 
-  ![](images/captureAzure2.PNG)
+  ![](images/CaptureAzure2.PNG)
 
-  ![](images/captureAzure3.PNG)
+  ![](images/CaptureAzure3.PNG)
 
-  ![](images/captureAzure4.PNG)
+  ![](images/CaptureAzure4.PNG)
 
-  ![](images/captureAzure5.PNG)
+  ![](images/CaptureAzure5.PNG)
 
-  ![](images/captureAzure6.PNG)
+  ![](images/CaptureAzure6.PNG)
 
 
